@@ -6,7 +6,6 @@ public class Main {
 
 		
 		System.out.println("Ciao mondo");
-				System.out.println("Ciao mondo da git");
 
 		
 	}
